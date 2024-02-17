@@ -1,0 +1,8 @@
+{
+  "name": "Easy TOTP",
+  "description": "Time-based TOTP at your fingertips",
+  "uuid": "ccjmne+easy-totp@gmail.com",
+  "shell-version": [
+    "45"
+  ]
+}
